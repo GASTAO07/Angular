@@ -23,4 +23,3 @@ Note, however, that if your button text is long and the button width is too smal
 }
 ```
 In this case, all buttons will have at least the specified width, but they will expand if their content is too wide.
-```
