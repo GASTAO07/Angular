@@ -16,6 +16,8 @@ En plus de ces formes de binding de base, Angular propose également d'autres te
 
 Dans l'ensemble, le système puissant de binding d'Angular facilite la création d'applications dynamiques et réactives en maintenant la synchronisation entre les données et l'interface utilisateur.
 
+# Binding form dans Angular
+
 1. Commencez par importer les modules et les dépendances nécessaires. Assurez-vous d'importer FormsModule dans votre module Angular.
 
 ```typescript
